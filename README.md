@@ -30,6 +30,10 @@ The QR code generator uses the following API to generate QR codes:
 
 [API Documentation](https://goqr.me/api/)
 
+## Web App
+
+https://grand-lily-ad7d07.netlify.app/
+
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to the project, please follow these steps:
